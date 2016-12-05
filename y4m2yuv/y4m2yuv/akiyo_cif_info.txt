@@ -1,0 +1,8 @@
+File name: akiyo_cif.y4m
+File format: YUV4MPEG2
+Frame width: 352
+Frame height: 288
+FPS: 30000:1001
+Field order: p
+Pixel ratio: 128:117
+Frame number: 300
